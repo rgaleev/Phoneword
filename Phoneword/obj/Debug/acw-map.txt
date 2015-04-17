@@ -1,0 +1,2 @@
+Phoneword_Droid.CallHistoryActivity;phoneword_droid.CallHistoryActivity
+Phoneword_Droid.MainActivity;phoneword_droid.MainActivity
